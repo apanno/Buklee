@@ -1,7 +1,7 @@
-Seed
+Buklee
 ===
 
-WordPress starter theme, based on Underscore. Please see <a href="https://th.seedthemes.com/seed-kit/">Seed Kit</a> for more information in Thai language.
+WordPress starter theme, based on Underscore. Please see <a href="http://apanno.com">Buklee</a> for more information in Thai language.
 
 ## Change Log
 
